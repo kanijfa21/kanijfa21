@@ -1,4 +1,4 @@
-### Hi there 👋, Hey. I am Kanij Fatema
+###  Hey. I am Kanij Fatema
 #### A passionate Learner For Frontend Developer From Bangladesh
 ![A passionate Learner For Frontend Developer From Bangladesh](https://github.com/kanijfa21/kanijfa21/blob/main/Kanij%20Fatema.png)
 
